@@ -1,0 +1,7 @@
+git init for initialising 
+git clone copied forked repository  link
+change directory to the repository file
+make changes and save
+git add .
+git commit -m "task completed"
+git push origin main
