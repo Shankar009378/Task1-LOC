@@ -1,0 +1,6 @@
+Git commands used :
+git clone copied link paste
+git add . 
+git status
+git commit -m "task1 complete"
+git push origin main
