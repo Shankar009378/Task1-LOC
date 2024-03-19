@@ -1,7 +1,7 @@
 git init for initialising 
-git clone copy the where you have to change 
-change directory cd 
+git clone copied forked repository  link
+change directory to the repository file
+make changes and save
 git add .
-save the file
 git commit -m "task completed"
 git push origin main
